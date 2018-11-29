@@ -1,0 +1,1615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"description"
+			],
+			[
+				"H",
+				"HOST"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"car",
+				"cardScheme"
+			],
+			[
+				"or",
+				"orderAmount"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"p",
+				"provider"
+			],
+			[
+				"payment",
+				"payment_gate〔function〕"
+			],
+			[
+				"card",
+				"card_id〔argument〕"
+			],
+			[
+				"User",
+				"UserSavedCard"
+			],
+			[
+				"cli",
+				"client_info"
+			],
+			[
+				"TO",
+				"TOKENIZATION_DELETE_URL"
+			],
+			[
+				"dele",
+				"delete_token"
+			],
+			[
+				"cred",
+				"credit_card"
+			],
+			[
+				"pre",
+				"presence"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"is",
+				"is_internation_card"
+			],
+			[
+				"up",
+				"upcase"
+			],
+			[
+				"PAY",
+				"PAY_WITH_RETURNED_TOKEN"
+			],
+			[
+				"upda",
+				"update_profile"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"imag",
+				"images_tag"
+			],
+			[
+				"ima",
+				"images_alt"
+			],
+			[
+				"messa",
+				"message\tfunc"
+			],
+			[
+				"pos",
+				"postgres"
+			],
+			[
+				"napas",
+				"napas_trans"
+			],
+			[
+				"pres",
+				"present"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"image-",
+				"image-alt"
+			],
+			[
+				"image-s",
+				"image-status"
+			],
+			[
+				"user_",
+				"user_edit"
+			],
+			[
+				"exp",
+				"expanded"
+			],
+			[
+				"ord",
+				"order_by〔argument〕"
+			],
+			[
+				"current_",
+				"current_membership"
+			],
+			[
+				"package",
+				"package_name\tfunc"
+			],
+			[
+				"current",
+				"current_membership"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"sma",
+				"small-6"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"ex",
+				"expanded"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"da",
+				"data_checksum"
+			],
+			[
+				"secur",
+				"$secure_pass〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"err",
+				"error_text"
+			],
+			[
+				"Di",
+				"Digest"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"2",
+				"240000000"
+			],
+			[
+				"NGA",
+				"NGANLUONG_RECEIVER_MAIL"
+			],
+			[
+				"Co",
+				"Config"
+			],
+			[
+				"C",
+				"Config"
+			],
+			[
+				"NGAN",
+				"NGANLUONG_RETURN_URL〔variable〕"
+			],
+			[
+				"transa",
+				"transaction_info"
+			],
+			[
+				"sec",
+				"$secure_code〔variable〕"
+			],
+			[
+				"se",
+				"$secure_pass\tmixed"
+			],
+			[
+				"arr",
+				"$arr_param〔variable〕"
+			],
+			[
+				"var",
+				"var_dump($secure_code"
+			],
+			[
+				"buy",
+				"buyer_info"
+			],
+			[
+				"fee",
+				"fee_shipping"
+			],
+			[
+				"tra",
+				"transaction_info"
+			],
+			[
+				"retu",
+				"return_url"
+			],
+			[
+				"mer",
+				"merchant_site_code"
+			],
+			[
+				"tok",
+				"tokenResult"
+			],
+			[
+				"respo",
+				"response_result"
+			],
+			[
+				"re",
+				"response_result"
+			],
+			[
+				"respon",
+				"response_order"
+			],
+			[
+				"M",
+				"MERCHAN_ID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/composer.json",
+			"settings":
+			{
+				"buffer_size": 2146,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Controller/JqadmController.php",
+			"settings":
+			{
+				"buffer_size": 6085,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/config/app.php",
+			"settings":
+			{
+				"buffer_size": 9081,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/resources/views/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 1895,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/app/Providers/AuthServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 836,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/config/shop.php",
+			"settings":
+			{
+				"buffer_size": 3050,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/myshop/.env",
+			"settings":
+			{
+				"buffer_size": 551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/myshop/config/app.php",
+			"settings":
+			{
+				"buffer_size": 9169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 11903 files for \"homestead\" (regex)\n\n/Users/nguyenhuybinh/Sites/systechvn/.env.example:\n   10  DB_HOST=127.0.0.1\n   11  DB_PORT=3306\n   12: DB_DATABASE=homestead\n   13: DB_USERNAME=homestead\n   14  DB_PASSWORD=secret\n   15  \n\n/Users/nguyenhuybinh/Sites/systechvn/.gitignore:\n    8  /nbproject\n    9  /.vagrant\n   10: Homestead.json\n   11: Homestead.yaml\n   12  npm-debug.log\n   13  yarn-error.log\n\n/Users/nguyenhuybinh/Sites/systechvn/storage/logs/laravel-2018-11-19.log:\n    1: [2018-11-19 04:45:59] local.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) {\"exception\":\"[object] (Illuminate\\\\Database\\\\QueryException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) at /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, Doctrine\\\\DBAL\\\\Driver\\\\PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:50, PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46)\n    2  [stacktrace]\n    3  #0 /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\\\Database\\\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))\n    .\n   24  #21 {main}\n   25  \"} \n   26: [2018-11-19 04:47:41] local.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) {\"exception\":\"[object] (Illuminate\\\\Database\\\\QueryException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) at /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, Doctrine\\\\DBAL\\\\Driver\\\\PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:50, PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46)\n   27  [stacktrace]\n   28  #0 /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\\\Database\\\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))\n   ..\n   49  #21 {main}\n   50  \"} \n   51: [2018-11-19 05:01:38] local.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) {\"exception\":\"[object] (Illuminate\\\\Database\\\\QueryException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) at /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, Doctrine\\\\DBAL\\\\Driver\\\\PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:50, PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46)\n   52  [stacktrace]\n   53  #0 /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\\\Database\\\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))\n   ..\n  110  #5 {main}\n  111  \"} \n  112: [2018-11-19 05:03:53] local.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) {\"exception\":\"[object] (Illuminate\\\\Database\\\\QueryException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) at /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, Doctrine\\\\DBAL\\\\Driver\\\\PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:50, PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46)\n  113  [stacktrace]\n  114  #0 /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\\\Database\\\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))\n  ...\n  135  #21 {main}\n  136  \"} \n  137: [2018-11-19 05:11:13] local.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) {\"exception\":\"[object] (Illuminate\\\\Database\\\\QueryException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) at /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, Doctrine\\\\DBAL\\\\Driver\\\\PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:50, PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46)\n  138  [stacktrace]\n  139  #0 /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\\\Database\\\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))\n  ...\n  160  #21 {main}\n  161  \"} \n  162: [2018-11-19 05:11:46] local.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) {\"exception\":\"[object] (Illuminate\\\\Database\\\\QueryException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations) at /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664, Doctrine\\\\DBAL\\\\Driver\\\\PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:50, PDOException(code: 1045): SQLSTATE[HY000] [1045] Access denied for user 'homestead'@'localhost' (using password: YES) at /Users/nguyenhuybinh/Sites/systechvn/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46)\n  163  [stacktrace]\n  164  #0 /Users/nguyenhuybinh/Sites/systechvn/vendor/laravel/framework/src/Illuminate/Database/Connection.php(624): Illuminate\\\\Database\\\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))\n\n40 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 8669,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "APP_NAME=Laravel\nAPP_ENV=local\nAPP_KEY=base64:AuQjHOZ//l2cwAZE5pOuTDqe7vucjaTiw+VHh//xNqU=\nAPP_DEBUG=true\nAPP_URL=http://127.0.0.1:8000   \n\nLOG_CHANNEL=stack\n\nDB_CONNECTION=mysql\nDB_HOST=127.0.0.1\nDB_PORT=3306\nDB_DATABASE=systechvn\nDB_USERNAME=root\nDB_PASSWORD=chieckhan\n\nBROADCAST_DRIVER=log\nCACHE_DRIVER=file\nQUEUE_CONNECTION=sync\nSESSION_DRIVER=file\nSESSION_LIFETIME=120\n\nREDIS_HOST=127.0.0.1\nREDIS_PASSWORD=null\nREDIS_PORT=6379\n\nMAIL_DRIVER=smtp\nMAIL_HOST=smtp.mailtrap.io\nMAIL_PORT=2525\nMAIL_USERNAME=null\nMAIL_PASSWORD=null\nMAIL_ENCRYPTION=null\n\nPUSHER_APP_ID=\nPUSHER_APP_KEY=\nPUSHER_APP_SECRET=\nPUSHER_APP_CLUSTER=mt1\n\nMIX_PUSHER_APP_KEY=\"${PUSHER_APP_KEY}\"\nMIX_PUSHER_APP_CLUSTER=\"${PUSHER_APP_CLUSTER}\"\n",
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/.env",
+			"file_size": 709,
+			"file_write_time": 131871731786765631,
+			"settings":
+			{
+				"buffer_size": 712,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nguyenhuybinh/Sites/systechvn/config/database.php",
+			"settings":
+			{
+				"buffer_size": 4406,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"trim",
+				"Trimmer: Normalize spaces."
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nguyenhuybinh/Sites/myshop",
+		"/Users/nguyenhuybinh/Sites/myshop/config"
+	],
+	"file_history":
+	[
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/lib/payment_providers/napas.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/user_detail.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/payment.yml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/webapp_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/order_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/vue-realworld-example-app/README.md",
+		"/Users/nguyenhuybinh/Sites/git/vue-realworld-example-app/src/store/auth.module.js",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/test/controllers/v1/order_controller_test.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/concerns/users/registerable.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/concerns/users/authenticable.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/lib/payment_providers/alepay.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/order.rb",
+		"/Users/nguyenhuybinh/Sites/git/1/form.html",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/orders/napas/form.html.erb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/packages.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/concerns/users/order.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/user_saved_card.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/napas_transaction.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/payments/gateway.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/webhooks/alepay_hook_service.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/user_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/db/migrate/20181106091806_add_napas_payment_method.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/db/migrate/20170316220815_add_is_processing_for_scheduler.rb",
+		"/Users/nguyenhuybinh/Sites/git/Archive/theme/global/package.json",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/db/migrate/20171113135518_create_user_saved_cards.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/stylesheets/components/_packages.scss",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/user_edit.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/stylesheets/components/_user_detail.scss",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/user.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/routes.rb",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Http/Controllers/MediaController.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/config/app.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/vendor/intervention/image/src/Intervention/Image/ImageServiceProvider.php",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/node_modules/buefy/lib/buefy.css",
+		"/Users/nguyenhuybinh/Sites/git/laravel-google-drive-demo/.env",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/app/Http/routes.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/.env",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/app/Helpers/UploadHelper.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Resources/views/media/partials/images.blade.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Entities/Image.php",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/landing.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/stylesheets/landing.scss",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/stylesheets/components/_landing.scss",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/coverage/index.html",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/log/development.log.0",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/log/development.log",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/log/production.log",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/log/sidekiq_development.log",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/log/test.log",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/test/models/reservation_test.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/sessions/sessions_controller.rb",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Http/routes.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Resources/views/media/create.blade.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Resources/views/media/partials/videos.blade.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/resources/views/admin/gentelella/categories/create_category.blade.php",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/database.yml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/order_failed.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/users_promo_code.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/initializers/devise.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/secrets.yml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/compose.env",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/docker-compose.yaml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/services/partners/partner_service.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/application_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/users/registrations_controller.rb",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/app/User.php",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/users/passwords_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/concerns/users/password.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/routes/base.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/wefit_admin/app/services/wefit_admin/admin_service.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/serializers/v1/user_serializer.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/my_config.txt",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/environments/development.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/environments/production.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/test/models/user_activation_code_test.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/test/controllers/v1/promo_code_controller_test.rb",
+		"/Users/nguyenhuybinh/Desktop/docker-compose.yaml",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Resources/views/media/untitled.html",
+		"/Users/nguyenhuybinh/Documents/db.sql",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/cms-chart/Chart.yaml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/membership.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/cms-chart/templates/configmap.yaml",
+		"/Users/nguyenhuybinh/Desktop/membership.rb",
+		"/Users/nguyenhuybinh/Desktop/napas.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/media_controller.rb",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Entities/Media.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Resources/views/index.blade.php",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/layouts/v1/webapp/landing.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/layouts/v1/webapp/packages.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/layouts/v1/webapp/user_edit.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/stylesheets/components/_new.scss",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/public/custom/travelSite/css/home.css",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/validators/v1/membership_validator.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/user_activation_code.rb",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Model/Video.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Model/Image.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Model/Media.php",
+		"/Users/nguyenhuybinh/Sites/dailyTravelBeauty/Modules/Media/Resources/assets/page_bar.css",
+		"/Users/nguyenhuybinh/Sites/git/foundation/wefit_user_edit.html",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/payment_gate.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/orders/callback_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/order_success.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/sessions/sessions/new.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/users/sessions_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v2/user_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/admins/sessions_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/specifications/leaf_specification.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/images/background.png",
+		"/Users/nguyenhuybinh/Sites/git/foundation/new_login.html",
+		"/Users/nguyenhuybinh/Sites/git/foundation/wefit_ocancel.html",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/payment_page.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/foundation/payment_page.html",
+		"/Users/nguyenhuybinh/Sites/git/foundation/wefit_packages.html",
+		"/Users/nguyenhuybinh/Sites/git/foundation/wefit_osuccess.html",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/user_membership.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/db/schema.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/models/concerns/users/membership.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/controllers/v1/membership_controller.rb",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/config/locales/models/vi.yml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/serializers/v1/users/cycles_serializer.rb",
+		"/Users/nguyenhuybinh/Sites/git/foundation/wefit_progress_checkout.html",
+		"/Users/nguyenhuybinh/Sites/git/foundation/wefit_userdetail.html",
+		"/Users/nguyenhuybinh/Downloads/multi-step-form-with-progress-bar/js/index.js",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/.ruby-version",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/Gemfile.lock",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/views/v1/webapp/success.html.haml",
+		"/Users/nguyenhuybinh/Sites/git/wefit.vn/app/assets/stylesheets/application.scss",
+		"/Users/nguyenhuybinh/Sites/git/foundation/jquery.step.css"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			"/Users/nguyenhuybinh/Sites/systechvn"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"develop",
+			"homestead"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+							],
+							"auto_complete": true,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Controller/JqadmController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6339,
+								6339
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/resources/views/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1895,
+								1895
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 304.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/app/Providers/AuthServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"SL.94.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/config/shop.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2976,
+								2976
+							]
+						],
+						"settings":
+						{
+							"SL.95.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1705.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nguyenhuybinh/Sites/myshop/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nguyenhuybinh/Sites/myshop/config/app.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 9169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3782,
+								3789
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8669,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										162,
+										171
+									],
+									[
+										191,
+										200
+									],
+									[
+										327,
+										336
+									],
+									[
+										349,
+										358
+									],
+									[
+										571,
+										580
+									],
+									[
+										683,
+										692
+									],
+									[
+										843,
+										852
+									],
+									[
+										955,
+										964
+									],
+									[
+										1200,
+										1209
+									],
+									[
+										1426,
+										1435
+									],
+									[
+										1937,
+										1946
+									],
+									[
+										2049,
+										2058
+									],
+									[
+										2209,
+										2218
+									],
+									[
+										2321,
+										2330
+									],
+									[
+										2566,
+										2575
+									],
+									[
+										2792,
+										2801
+									],
+									[
+										3303,
+										3312
+									],
+									[
+										3415,
+										3424
+									],
+									[
+										3575,
+										3584
+									],
+									[
+										3687,
+										3696
+									],
+									[
+										3932,
+										3941
+									],
+									[
+										4158,
+										4167
+									],
+									[
+										4668,
+										4677
+									],
+									[
+										4780,
+										4789
+									],
+									[
+										4940,
+										4949
+									],
+									[
+										5052,
+										5061
+									],
+									[
+										5297,
+										5306
+									],
+									[
+										5523,
+										5532
+									],
+									[
+										6034,
+										6043
+									],
+									[
+										6146,
+										6155
+									],
+									[
+										6306,
+										6315
+									],
+									[
+										6418,
+										6427
+									],
+									[
+										6663,
+										6672
+									],
+									[
+										6889,
+										6898
+									],
+									[
+										7400,
+										7409
+									],
+									[
+										7512,
+										7521
+									],
+									[
+										7672,
+										7681
+									],
+									[
+										7784,
+										7793
+									],
+									[
+										8029,
+										8038
+									],
+									[
+										8255,
+										8264
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/nguyenhuybinh/Sites/systechvn",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/nguyenhuybinh/Sites/systechvn/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1995,
+								1995
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"project": "systech.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Aimeos\\Shop\\Controller\\JqadmController",
+				"vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Controller/JqadmController.php"
+			],
+			[
+				"App\\Providers\\AuthServiceProvider",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"webapp",
+				"wefit.vn/app/controllers/v1/webapp_controller.rb"
+			],
+			[
+				"order",
+				"wefit.vn/app/models/order.rb"
+			],
+			[
+				"order.",
+				"wefit.vn/app/models/order.rb"
+			],
+			[
+				"alepay",
+				"wefit.vn/lib/payment_providers/alepay.rb"
+			],
+			[
+				"",
+				"untitled"
+			],
+			[
+				"order_c",
+				"wefit.vn/app/controllers/v1/order_controller.rb"
+			],
+			[
+				"pay",
+				"wefit.vn/config/payment.yml"
+			],
+			[
+				"webapp_",
+				"wefit.vn/app/controllers/v1/webapp_controller.rb"
+			],
+			[
+				"napas",
+				"wefit.vn/lib/payment_providers/napas.rb"
+			],
+			[
+				"webap",
+				"wefit.vn/app/controllers/v1/webapp_controller.rb"
+			],
+			[
+				"n",
+				"wefit.vn/lib/payment_providers/napas.rb"
+			],
+			[
+				"order_co",
+				"wefit.vn/app/controllers/v1/order_controller.rb"
+			],
+			[
+				"paym",
+				"wefit.vn/config/payment.yml"
+			],
+			[
+				"gate",
+				"wefit.vn/app/models/payments/gateway.rb"
+			],
+			[
+				"user_con",
+				"wefit.vn/app/controllers/v1/user_controller.rb"
+			],
+			[
+				"user_co",
+				"wefit.vn/app/controllers/v1/user_controller.rb"
+			],
+			[
+				"payment",
+				"wefit.vn/config/payment.yml"
+			],
+			[
+				"napa",
+				"wefit.vn/lib/payment_providers/napas.rb"
+			],
+			[
+				"order_con",
+				"wefit.vn/app/controllers/v1/order_controller.rb"
+			],
+			[
+				"ale",
+				"wefit.vn/lib/payment_providers/alepay.rb"
+			],
+			[
+				"alep",
+				"wefit.vn/lib/payment_providers/alepay.rb"
+			],
+			[
+				"order_",
+				"wefit.vn/app/controllers/v1/order_controller.rb"
+			],
+			[
+				"usersav",
+				"wefit.vn/app/models/user_saved_card.rb"
+			],
+			[
+				"usersave",
+				"wefit.vn/app/models/user_saved_card.rb"
+			],
+			[
+				"ImageServiceProvider",
+				"dailyTravelBeauty/vendor/intervention/image/src/Intervention/Image/ImageServiceProvider.php"
+			],
+			[
+				"route",
+				"wefit.vn/config/routes.rb"
+			],
+			[
+				"weba",
+				"wefit.vn/app/controllers/v1/webapp_controller.rb"
+			],
+			[
+				"config/secrets.yml",
+				"wefit.vn/config/secrets.yml"
+			],
+			[
+				"User",
+				"dailyTravelBeauty/app/User.php"
+			],
+			[
+				"deve",
+				"wefit.vn/config/environments/development.rb"
+			],
+			[
+				"secre",
+				"wefit.vn/config/secrets.yml"
+			],
+			[
+				"devis",
+				"wefit.vn/config/initializers/devise.rb"
+			],
+			[
+				"promo_code_controller_test",
+				"wefit.vn/test/controllers/v1/promo_code_controller_test.rb"
+			],
+			[
+				"user_activation_code_test",
+				"wefit.vn/test/models/user_activation_code_test.rb"
+			],
+			[
+				"config",
+				"wefit.vn/cms-chart/templates/configmap.yaml"
+			],
+			[
+				"chart",
+				"wefit.vn/cms-chart/Chart.yaml"
+			],
+			[
+				"Napas",
+				"wefit.vn/app/models/napas_transaction.rb"
+			],
+			[
+				"member",
+				"wefit.vn/app/models/membership.rb"
+			],
+			[
+				"user_activation_code",
+				"wefit.vn/app/models/user_activation_code.rb"
+			],
+			[
+				"membership",
+				"wefit.vn/app/validators/v1/membership_validator.rb"
+			],
+			[
+				"mem",
+				"wefit.vn/app/models/membership.rb"
+			],
+			[
+				"paym\t",
+				"wefit.vn/config/payment.yml"
+			],
+			[
+				"ord",
+				"wefit.vn/app/controllers/v1/order_controller.rb"
+			],
+			[
+				"call",
+				"wefit.vn/app/controllers/v1/orders/callback_controller.rb"
+			],
+			[
+				"membe",
+				"wefit.vn/app/models/membership.rb"
+			],
+			[
+				"membership_va",
+				"wefit.vn/app/validators/v1/membership_validator.rb"
+			],
+			[
+				"members",
+				"wefit.vn/app/models/membership.rb"
+			],
+			[
+				"member_co",
+				"wefit.vn/app/controllers/v1/membership_controller.rb"
+			],
+			[
+				"MembershipValidator",
+				"wefit.vn/app/validators/v1/membership_validator.rb"
+			],
+			[
+				"user_mem",
+				"wefit.vn/app/models/user_membership.rb"
+			],
+			[
+				"schema",
+				"wefit.vn/db/schema.rb"
+			],
+			[
+				"ORDER",
+				"wefit.vn/app/controllers/v1/order_controller.rb"
+			],
+			[
+				"user",
+				"wefit.vn/app/models/user.rb"
+			],
+			[
+				"application_",
+				"wefit.vn/app/controllers/application_controller.rb"
+			],
+			[
+				"appli",
+				"wefit.vn/coverage/assets/0.10.2/application.css"
+			],
+			[
+				"iden",
+				"wefit.vn/app/models/identity.rb"
+			],
+			[
+				"landing",
+				"wefit.vn/app/views/v1/home/landing.html.haml"
+			],
+			[
+				"admin",
+				"wefit.vn/app/models/admin.rb"
+			],
+			[
+				"Identi",
+				"wefit.vn/app/models/identity.rb"
+			],
+			[
+				"identit",
+				"wefit.vn/app/models/identity.rb"
+			],
+			[
+				"colum",
+				"wefit.vn/node_modules/bulma/sass/grid/columns.sass"
+			],
+			[
+				"application.css",
+				"wefit.vn/coverage/assets/0.10.2/application.css"
+			],
+			[
+				"gul",
+				"wefit.vn/node_modules/escope/gulpfile.js"
+			],
+			[
+				"home_con",
+				"wefit.vn/app/controllers/v1/home_controller.rb"
+			],
+			[
+				"home",
+				"wefit.vn/app/controllers/v1/home_controller.rb"
+			],
+			[
+				"rou",
+				"wefit.vn/config/routes.rb"
+			],
+			[
+				"order/c",
+				"wefit.vn/app/controllers/v1/orders/callback_controller.rb"
+			],
+			[
+				"route/bas",
+				"config/routes/base.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
